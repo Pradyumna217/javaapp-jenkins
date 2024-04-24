@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>This is About page</h1>
+<p>Just Timepass</p>
 </body>
 </html>
